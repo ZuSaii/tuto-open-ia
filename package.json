@@ -1,0 +1,24 @@
+{
+  "name": "tuto-open-ia",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZuSaii/tuto-open-ia.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ZuSaii/tuto-open-ia/issues"
+  },
+  "homepage": "https://github.com/ZuSaii/tuto-open-ia#readme",
+  "description": "",
+  "dependencies": {
+    "dotenv": "^16.5.0",
+    "openai": "^5.6.0"
+  },
+  "type": "module"
+}
